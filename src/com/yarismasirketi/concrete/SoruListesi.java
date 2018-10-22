@@ -2,7 +2,7 @@ package com.yarismasirketi.concrete;
 
 public class SoruListesi {
 	public static final String[] sorular = {
-			"Turkiye'nin baskenti neresidir?"
+			"Turkiye'nin baskenti hangisidir?"
 			,"Ataturk hangi yil dogdu?"
 			,"Ataturk nerede dogdu?"
 			,"TBMM hangi yil kuruldu?"
