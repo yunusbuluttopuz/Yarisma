@@ -8,11 +8,20 @@ public class SoruListesi {
 			,"TBMM hangi yil kuruldu?"
 			,"Izmir'i hangi ulke isgal etti?" 
 	};
+	
+	public static final String[][] siklar = {
+			{"Ankara", "Izmir", "Istanbul"},
+			{"1880", "1881", "1882"},
+			{"Atina", "Bukres", "Selanik"},
+			{"1920", "1921", "1922"},
+			{"Bulgaristan", "Yunanistan", "Romanya"}
+	};
+	
 	public static final String[] cevaplar = {
-			"Ankara"
-			,"1881"
-			,"Selanik"
-			,"1920"
-			,"Yunanistan"
+			"A"
+			,"B"
+			,"C"
+			,"A"
+			,"B"
 	};	
 }
