@@ -4,7 +4,7 @@ public class SoruListesi {
 	public static final String[] sorular = {
 			"Turkiye'nin baskenti hangisidir?"
 			,"Ataturk hangi yil dogdu?"
-			,"Ataturk nerede dogdu?"
+			,"Ataturk hangi sehirde dogdu?"
 			,"TBMM hangi yil kuruldu?"
 			,"Izmir'i hangi ulke isgal etti?" 
 	};
