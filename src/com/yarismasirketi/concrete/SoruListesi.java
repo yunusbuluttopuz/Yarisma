@@ -6,7 +6,7 @@ public class SoruListesi {
 			,"Ataturk hangi yil dogdu?"
 			,"Ataturk hangi sehirde dogdu?"
 			,"TBMM hangi yil kuruldu?"
-			,"Izmir'i hangi ulke isgal etti?" 
+			,"Izmir hangi bolgededir?" 
 	};
 	
 	public static final String[][] siklar = {
@@ -14,7 +14,7 @@ public class SoruListesi {
 			{"1880", "1881", "1882"},
 			{"Atina", "Bukres", "Selanik"},
 			{"1920", "1921", "1922"},
-			{"Bulgaristan", "Yunanistan", "Romanya"}
+			{"Ege", "Karadeniz", "Akdeniz"}
 	};
 	
 	public static final String[] cevaplar = {
