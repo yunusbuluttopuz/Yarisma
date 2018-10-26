@@ -22,6 +22,6 @@ public class SoruListesi {
 			,"B"
 			,"C"
 			,"A"
-			,"B"
+			,"A"
 	};	
 }
