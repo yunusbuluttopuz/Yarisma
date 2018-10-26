@@ -14,7 +14,7 @@ public class SoruListesi {
 			{"1880", "1881", "1882"},
 			{"Atina", "Bukres", "Selanik"},
 			{"1920", "1921", "1922"},
-			{"Ege", "Karadeniz", "Akdeniz"}
+			{"Ege", "Karadeniz", "Ic Anadolu"}
 	};
 	
 	public static final String[] cevaplar = {
