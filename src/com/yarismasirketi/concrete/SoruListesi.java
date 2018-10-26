@@ -11,10 +11,10 @@ public class SoruListesi {
 	
 	public static final String[][] siklar = {
 			{"Ankara", "Izmir", "Istanbul"},
-			{"1880", "1881", "1882"},
+			{"1880", "1881", "1981"},
 			{"Atina", "Bukres", "Selanik"},
 			{"1920", "1921", "1922"},
-			{"Ege", "Karadeniz", "Ic Anadolu"}
+			{"Ege", "Karadeniz", "Dogu Anadolu"}
 	};
 	
 	public static final String[] cevaplar = {
